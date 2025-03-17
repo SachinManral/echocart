@@ -25,7 +25,7 @@ EchoCart bridges the gap between design and development by converting Figma desi
 
 ## Demo
 
-Check out the live demo: [EchoCart Demo](https://echocart.netlify.app/)
+Check out the live demo: [EchoCart](https://echocartshop.netlify.app/)
 
 
 ## Features
@@ -57,7 +57,7 @@ To get started with EchoCart locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/echocart.git
+   git clone https://github.com/SachinManral/echocart.git
    cd echocart
    ```
 
